@@ -53,7 +53,7 @@ skills/trailcard/
 
 ```bash
 pip install skills-ref
-skills-ref validate skills/trailcard
+agentskills validate skills/trailcard
 ```
 
 CI runs the same check on every push and attaches `trailcard.zip` to each tagged release.
